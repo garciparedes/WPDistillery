@@ -21,11 +21,12 @@ echo "export LC_ALL=en_US.UTF-8 ">>~/.bashrc
 then `exit` and `vagrant ssh` and you're good to go. (This is a ScotchBox issue but I wanted to clarify this for everyone using Wordmove.)
 
 ## About
-* Author: Flurin Dürst
+### Author: Flurin Dürst
 * Contact: [flurin@flurinduerst.ch](mailto:flurin@flurinduerst.ch)
 * Twitter: [@flurinduerst](https://twitter.com/flurinduerst)
 
-* Author: Sergio García
+
+### Author: Sergio García
 * Contact: [sergio@garciparedes.me](mailto:sergio@garciparedes.me)
 * Facebook: [garciparedes](https://facebook.com/garciparedes)
 * Twitter: [@garciparedes](https://twitter.com/garciparedes)
