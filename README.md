@@ -5,10 +5,11 @@ To setup a new project running Scotch Box, WordPress and WooCommerce simply foll
 ```bash
 git clone https://github.com/scotch-io/scotch-box.git && mv scotch-box/public public && mv scotch-box/Vagrantfile Vagrantfile && rm -rf scotch-box && git clone --depth 1 git@github.com:garciparedes/WooCommerceDistillery.git && mv WooCommerceDistillery/config.yml config.yml && mv WooCommerceDistillery/setup.sh setup.sh && rm -rf WooCommerceDistillery
 ```
-2. add environment variables and your preferred options into `config.yml` (see [configuration file documentation](README_CONFIG.md) for additional info on `config.yml`)
+2. add environment variables and your preferred options into `config.yml` (see [configuration file documentation](https://github.com/flurinduerst/WPDistillery/blob/master/README_CONFIG.md) for additional info on `config.yml`)
 4. `vagrant up` then `vagrant ssh`
 5. update wp cli `sudo wp cli update --allow-root` see [Known Issues](https://github.com/flurinduerst/WPDistillery#known-issues)
 6. execute setup.sh `cd ../../var/www/ && bash setup.sh`
+7. Access Your Project at  http://192.168.33.10/
 
 
 ## Known Issues
