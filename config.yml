@@ -54,9 +54,9 @@ wpsettings:
 
 # theme to install, choose new name in 'rename' or leave empty
 theme:
-  name: WPSeed
+  name: Storefront
   rename: ""
-  url: https://github.com/flurinduerst/WPSeed/archive/master.zip
+  url: http://downloads.wordpress.org/theme/storefront.2.0.6.zip
 
 # PLUGINS
 #################################################################
@@ -71,6 +71,7 @@ plugins_active:
   - simple-page-ordering
   - user-switching
   - google-sitemap-generator
+  - "https://downloads.wordpress.org/plugin/woocommerce.2.6.4.zip"
 
 # plugins to install
 plugins_inactive:
