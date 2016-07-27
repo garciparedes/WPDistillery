@@ -38,4 +38,4 @@ Feel free to contact me or add issues/pull-requests.
 WPDistillery is released under the terms of the [GNU General Public License, Version 3](https://www.gnu.org/licenses/gpl)
 
 ## Like it? Awesome!
-If you find this tool useful, consider supporting WP Distillery or [buying me a beer](https://www.paypal.me/FlurinDuerst/5) respectively [a glass of single malt scotch whiskey](https://www.paypal.me/FlurinDuerst/10) :)
+If you find this tool useful, consider supporting WP Distillery or [buying me a beer](https://www.paypal.me/garciparedes/5) respectively [a glass of single malt scotch whiskey](https://www.paypal.me/garciparedes/10) :)
